@@ -7,7 +7,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class App
+public class CountingCharacters
 {
     public static void main( String[] args )
     {
